@@ -11,6 +11,6 @@ Add to your stylelint configuration to ```.stylelintrc```
 
 ```json
 {
-    "extends": "eslint-config-dev-kit"
+    "extends": "stylelint-config-dev-kit"
 }
 ```
