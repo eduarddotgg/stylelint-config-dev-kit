@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Stylelint shareable config",
   "main": "index.js",
-  "repository": "https://github.com/iamfrntdv/stylelint-config-dev-kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamfrntdv/stylelint-config-dev-kit"
+  },
   "keywords": [
     "stylelint",
     "stylelint-config",
